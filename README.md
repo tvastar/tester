@@ -1,0 +1,2 @@
+# tester
+Golang test runner
